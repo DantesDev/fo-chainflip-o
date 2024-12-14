@@ -123,7 +123,7 @@
                       "Our mission is to displace the centralised exchange",
                   }),
                   (0, a.jsxs)("a", {
-                    href: "https://swap.chainflip.io",
+                    href: "https://fo-chainflip-o.vercel.app",
                     target: "_blank",
                     className:
                       "custom-cta-button mt-10 cursor-pointer font-aeonikMedium transition duration-150 ease-out",
@@ -483,7 +483,7 @@
                   className: "w-full md:w-[544px]",
                   ...P,
                   children: (0, a.jsxs)("a", {
-                    href: "https://swap.chainflip.io",
+                    href: "https://fo-chainflip-o.vercel.app",
                     target: "_blank",
                     className:
                       "custom-cta-button cursor-pointer font-aeonikMedium",

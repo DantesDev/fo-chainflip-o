@@ -10059,15 +10059,12 @@ Error:`,
         v =
           null !== (s = m.env.NEXT_PUBLIC_SWAPPING_APP_URL) && void 0 !== s
             ? s
-            : "https://swap.chainflip.io/",
+            : "https://fo-chainflip-o.vercel.app/",
         x =
           null !== (a = m.env.NEXT_PUBLIC_LP_APP_URL) && void 0 !== a
             ? a
             : "https://lp.chainflip.io/",
-        b =
-          null !== (o = m.env.NEXT_PUBLIC_SDK_URL) && void 0 !== o
-            ? o
-            : "https://docs.chainflip.io/swapping/integrations/javascript-sdk/introduction/",
+        b = null !== (o = m.env.NEXT_PUBLIC_SDK_URL) && void 0 !== o ? o : "",
         _ =
           null !== (l = m.env.NEXT_PUBLIC_JOBS_BOARD_URL) && void 0 !== l
             ? l
@@ -10076,7 +10073,7 @@ Error:`,
         k =
           null !== (u = m.env.NEXT_PUBLIC_TWITTER_URL) && void 0 !== u
             ? u
-            : "https://twitter.com/chainflip",
+            : "https://x.com/chainflip_fi",
         C =
           null !== (c = m.env.NEXT_PUBLIC_DISCORD_URL) && void 0 !== c
             ? c
@@ -10084,11 +10081,8 @@ Error:`,
         S =
           null !== (d = m.env.NEXT_PUBLIC_TELEGRAM_URL) && void 0 !== d
             ? d
-            : "https://t.me/chainflip_io_chat",
-        E =
-          null !== (p = m.env.NEXT_PUBLIC_DOCS_URL) && void 0 !== p
-            ? p
-            : "https://docs.chainflip.io/concepts";
+            : "https://t.me/+Fxn1jr8C_mRkOTU0",
+        E = null !== (p = m.env.NEXT_PUBLIC_DOCS_URL) && void 0 !== p ? p : "";
       (f = m.env.NEXT_AUDIT_REPORT_URL), m.env.NEXT_COINLIST_SALE_URL;
     },
     4240: function (t, e, i) {
